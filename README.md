@@ -1,3 +1,4 @@
+![Screenshot 2025-02-15 004254](https://github.com/user-attachments/assets/6989160d-3a38-453c-96f4-c6a01b35658c)
 # 📈Sales Dashboard Project
 
 This repository contains an Excel Sales Dashboard designed to analyze and visualize sales data for decision-making. The dashboard provides interactive and visually appealing insights into sales performance, profit trends, customer behavior, and more.
@@ -57,7 +58,11 @@ Use dropdown filters to explore data by specific categories and years.
 3. Use the dropdown filters to customize the view and analyze the data based on your preferences.
 
 
-Sales Dashboard Overview
+# Sales Dashboard Overview! 
+![Screenshot 2025-02-15 004316](https://github.com/user-attachments/assets/152748bd-e966-408b-b042-1c7172fdf5a8)
+
+
+![Screenshot 2025-02-15 004316](https://github.com/user-attachments/assets/c9d5dfd2-02be-4315-98a6-9f8d64b26405)
 
 About
 
