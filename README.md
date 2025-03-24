@@ -62,7 +62,6 @@ Use dropdown filters to explore data by specific categories and years.
 ![Screenshot 2025-02-15 004316](https://github.com/user-attachments/assets/152748bd-e966-408b-b042-1c7172fdf5a8)
 
 
-![Screenshot 2025-02-15 004316](https://github.com/user-attachments/assets/c9d5dfd2-02be-4315-98a6-9f8d64b26405)
 
 About
 
